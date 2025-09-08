@@ -1,0 +1,16 @@
+{
+  "name": "Story Weaver",
+  "short_name": "Story Weaver",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#181A1B",
+  "description": "Craft your own narrative with the power of AI. Select your options and watch a story unfold.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
